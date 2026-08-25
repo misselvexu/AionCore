@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.73](https://github.com/iOfficeAI/AionCore/compare/v0.1.72...v0.1.73) (2026-08-25)
+
+
+### Features
+
+* **auth:** dual-token refresh with singleflight ([#926](https://github.com/iOfficeAI/AionCore/issues/926)) ([3f5c9f9](https://github.com/iOfficeAI/AionCore/commit/3f5c9f900433dd846798a82353df03dfed8db697))
+
 ## [0.1.72](https://github.com/iOfficeAI/AionCore/compare/v0.1.71...v0.1.72) (2026-08-24)
 
 
